@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  Neural Network.cpp
+Neural Network.cpp(34): warning C4101: 'delta_fptr': unreferenced local variable
+Neural Network.cpp(151): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+Neural Network.cpp(163): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+Neural Network.cpp(262): warning C4305: 'initializing': truncation from 'double' to 'float'
+Neural Network.cpp(287): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+Neural Network.cpp(316): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+Neural Network.cpp(373): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Neural Network.cpp(382): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+Neural Network.cpp(396): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating code
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(75): error C4703: potentially uninitialized local pointer variable 'fptr_last' used
+  All 421 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed

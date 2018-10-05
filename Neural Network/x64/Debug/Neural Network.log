@@ -1,0 +1,18 @@
+﻿  Neural Network.cpp
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(40): warning C4267: 'initializing': conversion from 'size_t' to 'uint16_t', possible loss of data
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(255): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(358): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(455): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(467): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(581): warning C4101: 'fptr_last': unreferenced local variable
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(584): warning C4101: 'number': unreferenced local variable
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(635): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(610): warning C4101: 'fptr_last': unreferenced local variable
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(648): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(673): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(704): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(761): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(770): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\cyberpunktech\google drive\visual studio 2017\neural network\neural network\neural network.cpp(784): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Neural Network.vcxproj -> C:\Users\CyberPunkTECH\Google Drive\Visual Studio 2017\Neural Network\x64\Debug\Neural Network.exe
